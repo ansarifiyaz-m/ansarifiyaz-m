@@ -40,10 +40,16 @@
 <img width="48" height="48" src="https://img.icons8.com/ios/50/chatgpt.png" alt="chatgpt"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/claude-ai.png" alt="claude-ai"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-copilot.png" alt="microsoft-copilot"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/gemini-ai.png" alt="gemini-ai"/>
 
+# 🎯 My LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ansari_Fiyaz?theme=catppuccinMocha&font=Noto%20Sans%20Duployan&ext=heatmap)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ansarifiyaz-m&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ansarifiyaz-m&theme=aura_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ansarifiyaz-m&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ansarifiyaz-m&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
